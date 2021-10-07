@@ -122,3 +122,4 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/windows,java,eclipse
 /pom.xml
 /target/
+pom.properties
